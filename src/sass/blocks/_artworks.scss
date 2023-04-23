@@ -1,0 +1,11 @@
+.artworks {
+    height: 700px;
+    &__title {
+        font-family: 'Josefin Sans';
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 62px;
+        color: rgba(255, 255, 255, 0.75);
+        margin-top: 163px;
+    }
+}
